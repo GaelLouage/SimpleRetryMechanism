@@ -1,0 +1,6 @@
+@SimpleRetryMechanism_HostAddress = http://localhost:5073
+
+GET {{SimpleRetryMechanism_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

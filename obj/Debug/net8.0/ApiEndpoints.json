@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "SimpleRetryMechanism.Controllers.HomeController",
+    "Method": "Get",
+    "RelativePath": "api/Home/Get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
